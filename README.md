@@ -1,2 +1,3 @@
 # hello-world
 Tutorial 1: Learning how to use Github for Data Mining the City
+My name is Amelia, I am trying to learn how to data mine the city....
